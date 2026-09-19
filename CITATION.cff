@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Physics-informed surrogates for exergy-based allocation: waste-to-energy benchmark"
+message: "If you use this software, please cite the associated article."
+authors:
+  - family-names: Kant
+    given-names: Neeraj
+    affiliation: Delhi Technological University
+  - family-names: Khera
+    given-names: Rashin
+    affiliation: Delhi Technological University
+  - family-names: Singh
+    given-names: Phool
+    affiliation: Delhi Technological University
+  - family-names: Prakash
+    given-names: Ravi
+    affiliation: Delhi Technological University
+  - family-names: Ranganath
+    given-names: M. S.
+    affiliation: Delhi Technological University
+  - family-names: Singh
+    given-names: Pushpendra
+    affiliation: Delhi Technological University
+  - family-names: Arora
+    given-names: Akhilesh
+    affiliation: Delhi Technological University
+license: MIT
